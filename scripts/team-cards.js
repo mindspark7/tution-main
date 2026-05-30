@@ -45,7 +45,7 @@ const teamDetails = [
 			{
 				linkedIn: '#',
 				github: '#',
-				website: '#'
+				
 			}
 		]
 	},
